@@ -1,0 +1,17 @@
+﻿英语：1.solid	实心的，固体的，坚硬的
+		  2.brush	画笔，刷子
+
+1.画一个具有填充效果的矩形
+	（1）使用类库System.Drawing下面的Graphics和SolidBrush和Color；
+	（2）FillRectangle(Brush, Single, Single, Single, Single)方法：填充由一对坐标、一个宽度和一个高度指定的矩形的内部。
+			1）构造函数：public void FillRectangle (System.Drawing.Brush brush, float x, float y, float width, float height);
+			2）参数：
+							brush：类型是System.Drawing.Brush的实例化对象，确定填充特性的 Brush
+							x：类型是Single，要填充的矩形的左上角的 x 坐标；
+							y：类型是Single，要填充的矩形的左上角的 y 坐标；
+							width：类型是Single，要填充的矩形的宽度；
+							height：类型是Single，要填充的矩形的高度；
+	（3）SolidBrush：继承自System.Drawing.Brush类
+			1）构造函数：public SolidBrush (System.Drawing.Color color);初始化指定颜色的新 SolidBrush 对象
+			2）参数：color，类型是System.Drawing.Color的实例化对象
+			3）Color的RGB用法：Color.FromArgb(255, 199, 237, 204)，四个参数范围都是0-255，第一个参数表示亮度，其中0表示没有亮度，后面三个参数依次为RGB分量值

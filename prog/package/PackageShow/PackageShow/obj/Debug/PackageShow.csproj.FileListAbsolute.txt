@@ -1,0 +1,42 @@
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\bin\Debug\PackageShow.exe.config
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\bin\Debug\PackageShow.exe
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\bin\Debug\PackageShow.pdb
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.csprojResolveAssemblyReference.cache
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.PackageShowFormClass.resources
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.Properties.Resources.resources
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.csproj.GenerateResource.Cache
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.exe
+C:\Users\xls\AppData\Local\Temporary Projects\PackageShow\obj\Debug\PackageShow.pdb
+D:\program_py\PackageShowGS\PackageShow\PackageShow\bin\Debug\PackageShow.exe.config
+D:\program_py\PackageShowGS\PackageShow\PackageShow\obj\Debug\PackageShow.exe
+D:\program_py\PackageShowGS\PackageShow\PackageShow\obj\Debug\PackageShow.pdb
+D:\program_py\PackageShow\PackageShow\bin\Debug\PackageShow.exe.config
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.exe
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.pdb
+D:\program_py\PackageShow\PackageShow\bin\Debug\PackageShow.exe
+D:\program_py\PackageShow\PackageShow\bin\Debug\PackageShow.pdb
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.csprojResolveAssemblyReference.cache
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.PackageShowFormClass.resources
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.Properties.Resources.resources
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.csproj.GenerateResource.Cache
+D:\program_py\PackageShow\PackageShow\bin\Debug\MySql.Data.dll
+G:\PackageShow\PackageShow\bin\Debug\PackageShow.exe.config
+G:\PackageShow\PackageShow\obj\Debug\PackageShow.exe
+G:\PackageShow\PackageShow\obj\Debug\PackageShow.pdb
+D:\program_py\PackageShow\PackageShow\bin\Debug\PackageShow.exe.manifest
+D:\program_py\PackageShow\PackageShow\bin\Debug\PackageShow.application
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.exe.manifest
+D:\program_py\PackageShow\PackageShow\obj\Debug\PackageShow.application
+D:\prog\package\PackageShow\PackageShow\bin\Debug\PackageShow.exe.config
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.exe
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.pdb
+D:\prog\package\PackageShow\PackageShow\bin\Debug\PackageShow.exe.manifest
+D:\prog\package\PackageShow\PackageShow\bin\Debug\PackageShow.application
+D:\prog\package\PackageShow\PackageShow\bin\Debug\PackageShow.exe
+D:\prog\package\PackageShow\PackageShow\bin\Debug\PackageShow.pdb
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.csprojResolveAssemblyReference.cache
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.PackageShowFormClass.resources
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.Properties.Resources.resources
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.csproj.GenerateResource.Cache
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.exe.manifest
+D:\prog\package\PackageShow\PackageShow\obj\Debug\PackageShow.application

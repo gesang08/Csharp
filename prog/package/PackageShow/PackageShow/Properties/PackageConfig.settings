@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PackageShow.Properties" GeneratedClassName="PackageConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="FactoryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">分包</Value>
+    </Setting>
+    <Setting Name="ServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gs</Value>
+    </Setting>
+    <Setting Name="ManagementDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gs_package</Value>
+    </Setting>
+    <Setting Name="ManufactureDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gs_package</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345678</Value>
+    </Setting>
+    <Setting Name="WorkStation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">显示系统</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">V20190415</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
