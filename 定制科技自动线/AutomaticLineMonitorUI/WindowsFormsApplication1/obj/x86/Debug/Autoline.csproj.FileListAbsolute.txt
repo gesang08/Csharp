@@ -1,0 +1,6 @@
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.StoreForm.resources
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.UserControl1.resources
+D:\定制科技自动线\20180429E\WindowsFormsApplication1\obj\x86\Debug\Autoline.csproj.GenerateResource.Cache
